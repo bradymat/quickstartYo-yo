@@ -1,0 +1,39 @@
+{
+  "name": "slush-pages-react",
+  "version": "1.0.10",
+  "description": "slush generator for a yo-yo, redux, sheet router and sass project",
+  "main": "slushfile.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradymat/quickstartYo-yo"
+  },
+  "keywords": [
+    "slush",
+    "slushgenerator",
+    "generator",
+    "scaffold",
+    "pages",
+    "static",
+    "gh-pages",
+    "ghpages",
+    "react"
+  ],
+  "author": "bradymat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradymat/quickstartYo-yo/issues"
+  },
+  "homepage": "https://github.com/bradymat/quickstartYo-yo",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-conflict": "^0.4.0",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "inquirer": "^1.0.2",
+    "osi-licenses": "^0.1.1"
+  }
+}
