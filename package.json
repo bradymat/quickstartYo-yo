@@ -1,6 +1,6 @@
 {
   "name": "slush-yo-yo",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "slush generator for a yo-yo, redux, sheet router and sass project",
   "main": "slushfile.js",
   "scripts": {
