@@ -1,5 +1,5 @@
 {
-  "name": "slush-pages-react",
+  "name": "quickstart-yo-yo",
   "version": "1.0.10",
   "description": "slush generator for a yo-yo, redux, sheet router and sass project",
   "main": "slushfile.js",
@@ -19,7 +19,7 @@
     "static",
     "gh-pages",
     "ghpages",
-    "react"
+    "yo-yo"
   ],
   "author": "bradymat",
   "license": "ISC",
