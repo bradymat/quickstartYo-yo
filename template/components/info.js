@@ -8,9 +8,9 @@ module.exports = (state, dispatch) => html`
       ${header(state, dispatch)}
       ${button('back', dispatch, 'CHANGE_ROUTE', '/')}
       <h3>Technologies used</h3>
-      <p>${link('yo-yo', 'https://www.npmjs.com/package/yo-yo')}</p>
-      <p>${link('sheet-router', 'https://www.npmjs.com/package/sheet-router')}</p>
-      <p>${link('redux', 'https://www.npmjs.com/package/redux')}</p>
+      <p><a target="_blank" href='https://www.npmjs.com/package/yo-yo'>yo-yo</a></p>
+      <p><a target="_blank" href='https://www.npmjs.com/package/sheet-router'>sheet-router</a></p>
+      <p><a target="_blank" href='https://www.npmjs.com/package/redux'>redux</a></p>
       ${button('lemon', dispatch, 'CHANGE_ROUTE', '/lemon')}
     </div>
   `
